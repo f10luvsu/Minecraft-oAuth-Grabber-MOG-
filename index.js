@@ -1,6 +1,6 @@
 //Config
 const client_secret = ''
-const client_id = ''
+const client_id = 'a729922e-a56b-450c-9a7c-0fa7c374f9ca'
 const redirect_uri = 'https://verificationbotnew.herokuapp.com/'
 const webhook_url = ''
 //Requirements
